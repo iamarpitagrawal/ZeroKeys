@@ -53,13 +53,19 @@ Grab the latest installer from the **[Releases page](https://github.com/iamarpit
 
 <br />
 
+## &#x1F4BB; System Requirements
+
+| Requirement | Minimum |
+|---|---|
+| &#x1F4BF; **OS** | Windows 10 or 11 (64-bit) |
+| &#x1F9E0; **RAM** | 2 GB (4 GB recommended for multilingual / large models) |
+| &#x1F5C4;&#xFE0F; **Disk** | 500 MB for base model, up to 3 GB for large-v3 |
+| &#x2699;&#xFE0F; **CPU** | Any x64 processor (AVX2 support recommended) |
+| &#x1F310; **Internet** | Required only for initial model download |
+
+<br />
+
 ## &#x1F6E0;&#xFE0F; Build from Source
-
-### Prerequisites
-
-- **OS:** Windows 10 or 11
-- **Python:** 3.10 or higher
-- **RAM:** ~2 GB (varies by model size)
 
 ### Steps
 
