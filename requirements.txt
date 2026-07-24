@@ -1,0 +1,8 @@
+faster-whisper
+sounddevice
+pyperclip
+numpy
+customtkinter
+pystray
+pillow
+llama-cpp-python
